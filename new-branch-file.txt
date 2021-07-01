@@ -1,1 +1,1 @@
-a new file in the new-branch
+a new file in the MASTER AND new-branch
